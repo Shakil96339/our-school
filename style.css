@@ -1,1 +1,39 @@
-font-family: 'Uchen', serif;
+body{
+    font-family: 'Akaya Telivigala';font-size: 22px;
+    margin-left:5px;
+    padding:80px;
+}
+span{
+color:orange;
+}
+h1{
+    font-size: 50px;
+}
+#pic{
+    width:500px;
+}
+.hire{
+    text-decoration: none;
+    color: floralwhite;
+    background-color: orange;
+    border-radius: 10px;
+    font-size: 40px;
+    background-image: linear-gradient(orange,tomato);
+
+}
+p{
+    color: rgba(17, 219, 233, 0.877);
+}
+.top-banner{
+    display: flex;
+    background-image: url(photo/top-banner.png);
+    background-repeat: no-repeat;
+    background-position:5px;
+   
+    
+    
+}
+.build{
+    width:50%;
+     
+}
